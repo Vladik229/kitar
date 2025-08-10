@@ -1,2 +1,4 @@
 telethon == 1.28.5
 python-dotenv == 1.0.0
+inghdr == 0.0.4
+
